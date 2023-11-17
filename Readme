@@ -1,0 +1,3 @@
+This is the Html, Css and Javascript App which Showcase the Nobel Prize Winners from year 1980 to 2023 in a list here in this app we have a filter button which filter the list according to the year in which person wn prize or the category in which person won the prize and we have one more button which get into the section wihich showing the people who won nobel prize ore than once 
+I Use Html for Structuring the User Interface then i use a CSS to styling the UI and Javscript to fetch the API you Provided and to dynamicaly get the data into our webpage 
+I had also use Shery JS which is newly lauched library of javascript which having various animation features which we can use with the help of GSAP which is a well known Javascript library for animation and so on . 
